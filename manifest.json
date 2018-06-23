@@ -3,7 +3,6 @@
 	"name": "Windows Switcher",
 	"short_name": "WindowsSwitcher",
 	"version": "1.0.0",
-	"default_locale": "en",
 	"description": "Allow you to switch between windows.",
 	"author": "Orel Eraki - oreleraki@gmail.com",
 	"homepage_url": "http://www.oreleraki.com",
