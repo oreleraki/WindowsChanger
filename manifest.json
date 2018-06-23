@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Windows Switcher",
 	"short_name": "WindowsSwitcher",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"default_locale": "en",
 	"description": "Allow you to switch between windows.",
 	"author": "Orel Eraki - oreleraki@gmail.com",
